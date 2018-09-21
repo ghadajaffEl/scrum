@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.backloglist-container {
+  position: absolute;
+  left: 0;
+}
+.modify-project {
+  display: flex;
+  margin-top: -22px;
+  margin-left: 15vw;
+}
+.userstory {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+
+  margin-bottom: 1vw;
+}
+.userStory-container {
+  display: flex;
+}
+.formbacklog {
+  display: flex;
+}
+.projectpropertie-container {
+  display: flex;
+}
+.project-container {
+  position: relative;
+  left: 25vw;
+  top: 5vw;
+}
+.backlog-container {
+  position: absolute;
+  left: 20vw;
+  top: 5vw;
+}
